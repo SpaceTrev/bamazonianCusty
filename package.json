@@ -1,0 +1,16 @@
+{
+  "name": "sqlhw",
+  "version": "1.0.0",
+  "description": "cl interface application to view mySQL data",
+  "main": "bamazonianCusty.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SpaceTrev",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0",
+    "prompt": "^1.0.0"
+  }
+}
